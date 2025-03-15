@@ -1,13 +1,13 @@
 export default function AboutMe() {
   return (
     <>
-      <div className="container">
+      <div className="contenedor">
         <h1 className="text-4xl border-4 border-black text-center mx-auto w-[300px] p-4 my-11">
           About Me
         </h1>
 
-        <div className="text-justify mx-8">
-          <p>
+        <div className="text-justify max-w-[450px] mx-auto">
+          <p >
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
             possimus, error quibusdam, distinctio tempora quasi illo eligendi
             porro numquam quo assumenda maxime veniam quos ducimus? Deserunt et
